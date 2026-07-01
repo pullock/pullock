@@ -1,5 +1,6 @@
 ## Привет всем! Вы на моей страничке ГитХаба, я тут иногда оставляю свой код! 👋
 
+⚡ Интересный факт: мне иногда кажется, что я понимаю как писать код.
 <!--
 **pullock/pullock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
